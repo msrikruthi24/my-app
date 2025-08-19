@@ -11,7 +11,7 @@ export default function Learn() {
   }, []);
 
   return (
-    <div className="p-10">
+    <div className="p-10 learn">
       <h2 className="text-xl font-semibold mb-4">Available Skills to Learn</h2>
       <ul>
         {skills.map((s, i) => (

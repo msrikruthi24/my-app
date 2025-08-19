@@ -1,0 +1,25 @@
+.homepage {
+    padding-bottom: 650px;
+    padding-left: 560px;
+    color: black;
+    text-align: center;
+}
+
+.teach {
+    padding-bottom: 600px;
+    padding-left: 650px;
+    color: black;
+    text-align: center;
+}
+
+.learn {
+    padding-bottom: 500px;
+    padding-left: 600px;
+    color: black;
+    text-align: center;
+}
+
+.explore {
+    color: black;
+    padding-left: 50px;
+}

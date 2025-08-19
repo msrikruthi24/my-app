@@ -15,7 +15,7 @@ export default function Teach() {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="p-10">
+    <form onSubmit={handleSubmit} className="p-10 teach">
       <h2 className="text-xl font-semibold mb-4">What can you teach?</h2>
       <input
         value={skill}
@@ -23,6 +23,8 @@ export default function Teach() {
         className="border p-2 mr-2"
         placeholder="e.g. ReactJS"
       />
+      <br/>
+      <br/>
       <button type="submit" className="bg-green-600 text-white px-4 py-2 rounded">
         Submit
       </button>

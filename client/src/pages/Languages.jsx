@@ -11,7 +11,7 @@ const languages = [
 
 export default function Languages() {
   return (
-    <div className="p-10">
+    <div className="p-10 explore">
       <h2 className="text-2xl font-bold mb-4">Languages to Learn</h2>
       <ul className="space-y-4">
         {languages.map((lang, i) => (
