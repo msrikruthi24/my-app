@@ -34,7 +34,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: bisque;
+  background-color: rgba(22, 217, 251, 0.655);
 }
 
 h1 {

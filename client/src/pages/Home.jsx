@@ -11,7 +11,8 @@ export default function Home() {
       <div className="space-x-4">
         <Link to="/teach" className="bg-green-600 text-white px-4 py-2 rounded">Teach</Link><br/>
         <Link to="/learn" className="bg-indigo-600 text-white px-4 py-2 rounded">Learn</Link><br/>
-        <Link to="/languages" className="bg-blue-600 text-white px-4 py-2 rounded">Explore Languages</Link>
+        <Link to="/languages" className="bg-blue-600 text-white px-4 py-2 rounded">Explore Languages</Link><br/><br/>
+        <div>Number of Pages = 4</div>
       </div>
     </div>
   );
